@@ -7,8 +7,8 @@ export const HEROES: Hero[] = [
     { id: 14, name: 'Alain Prost'},
     { id: 15, name: 'Lewis Hamilton'},
     { id: 16, name: 'Jenson Button'},
-    { id: 15, name: 'David Coulthard'},
-    { id: 16, name: 'Jackie Stewart'},
-    { id: 17, name: 'Max Verstappen'},
-    { id: 18, name: 'Valtteri Bottas'},
+    { id: 17, name: 'David Coulthard'},
+    { id: 18, name: 'Jackie Stewart'},
+    { id: 19, name: 'Max Verstappen'},
+    { id: 20, name: 'Valtteri Bottas'},
 ]
